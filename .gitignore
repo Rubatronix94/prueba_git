@@ -1,0 +1,24 @@
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilación
+bin/
+obj/
+
+# Logs
+*.log
+
+# Publicaciones
+publish/
+
+# Rider
+.idea/
+
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+ 
